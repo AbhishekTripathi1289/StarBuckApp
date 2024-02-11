@@ -1,0 +1,618 @@
+[
+  {
+    "store_name": "Banjara Hills",
+    "address": "Lower Ground Floor, GVK One, Road Number 1, Banjara Hills",
+    "City": "Hyderabad",
+    "Longitude": 78.45,
+    "Latitude": 17.42
+  },
+  {
+    "store_name": "Kukatpally",
+    "address": "Upper Ground Floor, Forum Sujana Mall, Kukatpally",
+    "City": "Hyderabad",
+    "Longitude": 78.39,
+    "Latitude": 17.48
+  },
+  {
+    "store_name": "Madhapur",
+    "address": "Lower Ground Floor, Inorbit Mall, Madhapur",
+    "City": "Hyderabad",
+    "Longitude": 78.39,
+    "Latitude": 17.43
+  },
+  {
+    "store_name": "Jubilee Hills",
+    "address": "Ground Floor, Road No. 92, Near Apollo hospital, Jubilee Hills",
+    "City": "Hyderabad",
+    "Longitude": 78.42,
+    "Latitude": 17.42
+  },
+  {
+    "store_name": "Hi-Tech City",
+    "address": "Upper Ground Floor, Phoenix tower A, Opposite Trident Hotel, Madhapur Village",
+    "City": "Hyderabad",
+    "Longitude": 78.38,
+    "Latitude": 17.45
+  },
+  {
+    "store_name": "Mindspace",
+    "address": "Mindspace, Hitech City",
+    "City": "Hyderabad",
+    "Longitude": 78.38,
+    "Latitude": 17.45
+  },
+  {
+    "store_name": "Punjabi Bagh",
+    "address": "1/83, Ground Floor , Club Road, West Punjabi Bagh",
+    "City": "Delhi",
+    "Longitude": 77.13,
+    "Latitude": 28.67
+  },
+  {
+    "store_name": "T3 Domestic Arrivals",
+    "address": "IGI Airport",
+    "City": "Delhi",
+    "Longitude": 77.12,
+    "Latitude": 28.57
+  },
+  {
+    "store_name": "HUDA Metro Station",
+    "address": "Ground Floor, South Wing, HUDA Metro Station",
+    "City": "Gurgaon",
+    "Longitude": 77.07,
+    "Latitude": 28.46
+  },
+  {
+    "store_name": "R K Puram",
+    "address": "Sangam Courtyard, Major Somnath Marg, Sector 9, R.K Puram",
+    "City": "New Delhi",
+    "Longitude": 77.17,
+    "Latitude": 28.57
+  },
+  {
+    "store_name": "Indira Gandhi International Airport",
+    "address": "Domestic Departure, Terminal 1D",
+    "City": "New Delhi",
+    "Longitude": 77.12,
+    "Latitude": 28.56
+  },
+  {
+    "store_name": "Subhash Nagar",
+    "address": "Ground Floor, Pacific Mall, Subhash Nagar",
+    "City": "New Delhi",
+    "Longitude": 77.11,
+    "Latitude": 28.64
+  },
+  {
+    "store_name": "Vasant Kunj - Ambience Mall",
+    "address": "1st Floor, Ambience Mall, Nelson Mandela Marg",
+    "City": "New Delhi",
+    "Longitude": 77.16,
+    "Latitude": 28.54
+  },
+  {
+    "store_name": "Saket",
+    "address": "Ground Floor, Select City Walk Mall",
+    "City": "New Delhi",
+    "Longitude": 77.22,
+    "Latitude": 28.53
+  },
+  {
+    "store_name": "Nehru Place",
+    "address": "Lower Ground Floor, Nehru Place Metro Station",
+    "City": "New Delhi",
+    "Longitude": 77.25,
+    "Latitude": 28.55
+  },
+  {
+    "store_name": "Connaught Place - A Block",
+    "address": "Hamilton House, A Block, Inner Circle",
+    "City": "New Delhi",
+    "Longitude": 77.22,
+    "Latitude": 28.63
+  },
+  {
+    "store_name": "Connaught Place - N Block",
+    "address": "N 16, N Block, Outer Circle, Connaught Place",
+    "City": "New Delhi",
+    "Longitude": 77.22,
+    "Latitude": 28.63
+  },
+  {
+    "store_name": "Vasant Kunj - DLF Promenade",
+    "address": "First Floor, DLF Promenade, Vasant Kunj",
+    "City": "New Delhi",
+    "Longitude": 77.16,
+    "Latitude": 28.54
+  },
+  {
+    "store_name": "Pitampura",
+    "address": "Ground Floor, HB Twin Towers, Netaji Subhash Pl, Pitampura",
+    "City": "New Delhi",
+    "Longitude": 77.15,
+    "Latitude": 28.69
+  },
+  {
+    "store_name": "Greater Kailash 1",
+    "address": "M Block Market, Greater Kailash 1",
+    "City": "New Delhi",
+    "Longitude": 77.24,
+    "Latitude": 28.55
+  },
+  {
+    "store_name": "Indira Gandhi Itnl Arpt-T3Gate15",
+    "address": "International Departure, Near Gate 15, Terminal  3",
+    "City": "New Delhi",
+    "Longitude": 77.1,
+    "Latitude": 28.56
+  },
+  {
+    "store_name": "Indira Gandhi Itnl Arpt-T3Gate27",
+    "address": "Domestic Departure, Near Gate 27, Terminal  3",
+    "City": "New Delhi",
+    "Longitude": 77.1,
+    "Latitude": 28.56
+  },
+  {
+    "store_name": "Hauz Khas",
+    "address": "Ground Floor, Power House, Hauz Khas Village, Hauz Khas",
+    "City": "New Delhi",
+    "Longitude": 77.19,
+    "Latitude": 28.55
+  },
+  {
+    "store_name": "Greater Kailash 2",
+    "address": "Ground Floor, M-11, M-Block, Main Mrkt, Greater Kailash Pt2",
+    "City": "New Delhi",
+    "Longitude": 77.24,
+    "Latitude": 28.53
+  },
+  {
+    "store_name": "M G Road",
+    "address": "Upper Ground Floor, MGF Metropolis, M G Road",
+    "City": "Gurgaon",
+    "Longitude": 77.08,
+    "Latitude": 28.48
+  },
+  {
+    "store_name": "Sector 29",
+    "address": "SCO 39, Ground Floor, Sector 29",
+    "City": "Gurgaon",
+    "Longitude": 77.06,
+    "Latitude": 28.47
+  },
+  {
+    "store_name": "One Horizon Center",
+    "address": "Golf Course Road",
+    "City": "Gurgaon",
+    "Longitude": 77.09,
+    "Latitude": 28.48
+  },
+  {
+    "store_name": "DLF Cyber Hub",
+    "address": "Ground Floor, DLF Cyber Hub, Phase II",
+    "City": "Gurgaon",
+    "Longitude": 77.09,
+    "Latitude": 28.5
+  },
+  {
+    "store_name": "Ambience Island",
+    "address": "Ground Floor, Ambience Mall, Ambience Island, NH 8",
+    "City": "Gurgaon",
+    "Longitude": 77.1,
+    "Latitude": 28.5
+  },
+  {
+    "store_name": "Sohna Road -",
+    "address": "Grd Flr, Block C, Vatika Business Park, Sector 49, Sohna Road",
+    "City": "Gurgaon",
+    "Longitude": 77.05,
+    "Latitude": 28.41
+  },
+  {
+    "store_name": "Malleswaram - Orion Mall",
+    "address": "Grd Flr Orion Mall, Brigade Gateway, Dr Rajkumar Road, Malleswaram",
+    "City": "Bangalore",
+    "Longitude": 77.56,
+    "Latitude": 13.01
+  },
+  {
+    "store_name": "JP Nagar",
+    "address": "100 feet ring road, K.A.S Officer, KAS Off HBCS layout,4th Phase,JP Nagar",
+    "City": "Bangalore",
+    "Longitude": 77.59,
+    "Latitude": 12.91
+  },
+  {
+    "store_name": "Mahadevapura",
+    "address": "Upper Ground Floor, Phoenix Market City,, Whitefield Road, Mahadevapura",
+    "City": "Bangalore",
+    "Longitude": 77.7,
+    "Latitude": 13
+  },
+  {
+    "store_name": "Koramangala",
+    "address": "Ground Floor, 7th block, Near Forum Mall, Koramangla Industrial Layout",
+    "City": "Bangalore",
+    "Longitude": 77.61,
+    "Latitude": 12.94
+  },
+  {
+    "store_name": "Indiranagar",
+    "address": "Grd Flr, Samrat Bldg, HAL II Stage, 100 ft Rd, Indiranagar",
+    "City": "Bangalore",
+    "Longitude": 77.64,
+    "Latitude": 12.97
+  },
+  {
+    "store_name": "Malleswaram - Mantri Mall",
+    "address": "Upper grd flr,Mantri Mall,Mantri Sq No1, Sampangiram Nagar, Malleswaram",
+    "City": "Bangalore",
+    "Longitude": 77.57,
+    "Latitude": 12.99
+  },
+  {
+    "store_name": "Sadashiv Nagar",
+    "address": "403, Ground Floor, 8th Main Road, Sadashiv Nagar",
+    "City": "Bangalore",
+    "Longitude": 77.58,
+    "Latitude": 13.01
+  },
+  {
+    "store_name": "Whitefield",
+    "address": "Ground floor, Prestige Shantiniketan, Crescent 4, Whitefield Main Road",
+    "City": "Bangalore",
+    "Longitude": 77.73,
+    "Latitude": 12.99
+  },
+  {
+    "store_name": "Benniganahalli",
+    "address": "Ground Floor, RMZ Infinity, The Bay, #3 Old Madras Road, Benniganahalli",
+    "City": "Bangalore",
+    "Longitude": 77.66,
+    "Latitude": 12.99
+  },
+  {
+    "store_name": "Church Street",
+    "address": "Ground Floor, Prestige RR Building, 55 and 51/1 Church Street",
+    "City": "Bangalore",
+    "Longitude": 77.61,
+    "Latitude": 12.97
+  },
+  {
+    "store_name": "Prabhadevi",
+    "address": "Upper Ground Floor, Century Bhavan, Century Bazaar, Prabhadevi",
+    "City": "Mumbai",
+    "Longitude": 72.82,
+    "Latitude": 19.01
+  },
+  {
+    "store_name": "Malad West - Infiniti Mall",
+    "address": "Upper Ground Floor, Infiniti Mall, Link Road,  Malad (West)",
+    "City": "Mumbai",
+    "Longitude": 72.83,
+    "Latitude": 19.18
+  },
+  {
+    "store_name": "Santacruz West",
+    "address": "Grd Flr Red Chillies Entertainment Bldg, Jct of 15th Rd and Ram Krishna MissionRd",
+    "City": "Mumbai",
+    "Longitude": 72.83,
+    "Latitude": 19.08
+  },
+  {
+    "store_name": "Nariman Point",
+    "address": "Ground Floor, Shree Nirmal Building, Behind Trident Hotel, Nariman Point",
+    "City": "Mumbai",
+    "Longitude": 72.82,
+    "Latitude": 18.93
+  },
+  {
+    "store_name": "Andheri West - Four Bunglows",
+    "address": "Kokilaben Dhirubhai Ambani Hospital, Four Bunglows, Andheri (West)",
+    "City": "Mumbai",
+    "Longitude": 72.82,
+    "Latitude": 19.13
+  },
+  {
+    "store_name": "Fort",
+    "address": "Elphinstone Building, Horniman Circle, Veer Nariman Road, Fort",
+    "City": "Mumbai",
+    "Longitude": 72.83,
+    "Latitude": 18.93
+  },
+  {
+    "store_name": "Bandra West - Chapel road",
+    "address": "Reclamation, Chapel Road, Near Lilavati Hospital",
+    "City": "Mumbai",
+    "Longitude": 72.83,
+    "Latitude": 19.05
+  },
+  {
+    "store_name": "Andheri West - Infiniti Mall",
+    "address": "Ground Floor, Infiniti Mall, New Link Road, Andheri (West)",
+    "City": "Mumbai",
+    "Longitude": 72.83,
+    "Latitude": 19.14
+  },
+  {
+    "store_name": "Ghatkopar West",
+    "address": "Gound Floor, R City Mall, Lal Bahadur Shastri Marg",
+    "City": "Mumbai",
+    "Longitude": 72.92,
+    "Latitude": 19.1
+  },
+  {
+    "store_name": "Thane West - Viviana Mall",
+    "address": "Ground Floor, Viviana Mall, Thane West, Opp Eastern Express Highway",
+    "City": "Mumbai",
+    "Longitude": 72.97,
+    "Latitude": 19.21
+  },
+  {
+    "store_name": "Elphinstone Road (West)",
+    "address": "First Floor, Tower 2 Lobby, Indiabulls Finance Centre",
+    "City": "Mumbai",
+    "Longitude": 72.84,
+    "Latitude": 19.01
+  },
+  {
+    "store_name": "Chhatrapati Shivaji Intnl-T2Arrival",
+    "address": "International Arrivals, Andheri (East)",
+    "City": "Mumbai",
+    "Longitude": 72.87,
+    "Latitude": 19.1
+  },
+  {
+    "store_name": "Bandra East - One BKC",
+    "address": "A wing, Ground Floor, One BKC, G Block,BandraBurlaComplex,BandraEast",
+    "City": "Mumbai",
+    "Longitude": 72.85,
+    "Latitude": 19.06
+  },
+  {
+    "store_name": "Thane West - Korum Mall",
+    "address": "Upper Ground Level, Korum Mall, Off Eastern Express highway",
+    "City": "Mumbai",
+    "Longitude": 72.97,
+    "Latitude": 19.2
+  },
+  {
+    "store_name": "Vikhroli East",
+    "address": "Ground Floor, Godrej One Building, Pirojshanagar, Vikhroli (East)",
+    "City": "Mumbai",
+    "Longitude": 72.92,
+    "Latitude": 19.09
+  },
+  {
+    "store_name": "Lower Parel - High Street Phoenix",
+    "address": "First floor, High Street Phoenix Mall, Senapati Bapat Marg, Lower Parcel",
+    "City": "Mumbai",
+    "Longitude": 72.82,
+    "Latitude": 19
+  },
+  {
+    "store_name": "Lower Parel - Marathon Futurex",
+    "address": "Upper Ground Floor, Marathon Futurex, NM Joshi Marg, Lower Parel",
+    "City": "Mumbai",
+    "Longitude": 72.83,
+    "Latitude": 19
+  },
+  {
+    "store_name": "Bandra West - Link corner",
+    "address": "Off Linking Road, Corner of 24th & 33rd Rd, Bandra West",
+    "City": "Mumbai",
+    "Longitude": 72.83,
+    "Latitude": 19.07
+  },
+  {
+    "store_name": "Vile Parle West",
+    "address": "Grd Flr, Tian Star, 48 Gulmohar Road, Juhu Scheme, Vile Parle (West)",
+    "City": "Mumbai",
+    "Longitude": 72.83,
+    "Latitude": 19.11
+  },
+  {
+    "store_name": "Chhatrapati Shivaji International A",
+    "address": "T2 Departure SHA, Level P9, Food Court, Andheri (East)",
+    "City": "Mumbai",
+    "Longitude": 72.88,
+    "Latitude": 19.1
+  },
+  {
+    "store_name": "Bandra East - FIFC",
+    "address": "First International Financial Centre, Bandra Kurla Complex Road, Bandra (East)",
+    "City": "Mumbai",
+    "Longitude": 72.87,
+    "Latitude": 19.07
+  },
+  {
+    "store_name": "Colaba",
+    "address": "Hotel Taj Mahal Palace, Apollo Bunder, Apollo Bunder, Opp. Gateway of India",
+    "City": "Mumbai",
+    "Longitude": 72.83,
+    "Latitude": 18.92
+  },
+  {
+    "store_name": "Kurla West",
+    "address": "First Floor, Phoenix Market City, Lal Bahadur Shastri Marg, Kurla (West)",
+    "City": "Mumbai",
+    "Longitude": 72.89,
+    "Latitude": 19.09
+  },
+  {
+    "store_name": "Malad West - Inorbit Mall",
+    "address": "Ground Floor, Inorbit Mall, Link Road,  Malad (West)",
+    "City": "Mumbai",
+    "Longitude": 72.84,
+    "Latitude": 19.17
+  },
+  {
+    "store_name": "Bandra East - The Capital",
+    "address": "Ground Floor, The Capital, Bandra Kurla Complex, Bandra (East)",
+    "City": "Mumbai",
+    "Longitude": 72.86,
+    "Latitude": 19.06
+  },
+  {
+    "store_name": "Powai",
+    "address": "Prudential Bldg Hiranandani Bus Park, Gr Fl, Central Avenue Road",
+    "City": "Mumbai",
+    "Longitude": 72.91,
+    "Latitude": 19.12
+  },
+  {
+    "store_name": "Goregaon East- Nirlon KnowledgePark",
+    "address": "Grd floor,Block B6,Nirlon Knowledge Pk, Off Western Express Highway",
+    "City": "Mumbai",
+    "Longitude": 72.85,
+    "Latitude": 19.16
+  },
+  {
+    "store_name": "Goregaon East - Oberoi Mall",
+    "address": "Off Western Express Highway, Goregaon (East)",
+    "City": "Mumbai",
+    "Longitude": 72.86,
+    "Latitude": 19.17
+  },
+  {
+    "store_name": "Chhatrapati Shivaji DomesticAirport",
+    "address": "Domestic Arrivals, Terminal 1B, Santa Cruz (East)",
+    "City": "Mumbai",
+    "Longitude": 72.86,
+    "Latitude": 19.09
+  },
+  {
+    "store_name": "Juhu",
+    "address": "Ground Floor, Hotel Bawa Continental, Juhu Tara Road",
+    "City": "Mumbai",
+    "Longitude": 72.83,
+    "Latitude": 19.1
+  },
+  {
+    "store_name": "Kandivali West",
+    "address": "Ground Floor, V Souk, Sector 10, Mahavir Nagar, Kandivali (West)",
+    "City": "Mumbai",
+    "Longitude": 72.84,
+    "Latitude": 19.21
+  },
+  {
+    "store_name": "Girgaon Chowpatty",
+    "address": "Shree Krishna Hindu Merchant Club, By Wilson College,Girgaon Chowpatty",
+    "City": "Mumbai",
+    "Longitude": 72.81,
+    "Latitude": 18.96
+  },
+  {
+    "store_name": "Vashi",
+    "address": "Ground Floor, Inorbit Mall, Sector 30A, Vashi",
+    "City": "Navi Mumbai",
+    "Longitude": 73,
+    "Latitude": 19.07
+  },
+  {
+    "store_name": "Kamla Nagar",
+    "address": "First Floor, Spark Mall, Kamla Nagar",
+    "City": "New Delhi",
+    "Longitude": 77.2,
+    "Latitude": 28.68
+  },
+  {
+    "store_name": "Viman Nagar",
+    "address": "Ground floor, Phoenix Market City, Viman Nagar",
+    "City": "Pune",
+    "Longitude": 73.92,
+    "Latitude": 18.56
+  },
+  {
+    "store_name": "Sangam Solitaire",
+    "address": "Sangam Press Road, Kothrud",
+    "City": "Pune",
+    "Longitude": 73.82,
+    "Latitude": 18.5
+  },
+  {
+    "store_name": "Aundh",
+    "address": "Ground floor, Centriole, Anand Park, ITI Road, Aundh",
+    "City": "Pune",
+    "Longitude": 73.81,
+    "Latitude": 18.56
+  },
+  {
+    "store_name": "Magarpatta",
+    "address": "First Floor, Seasons Mall, Magarpatta City, Hadapsar",
+    "City": "Pune",
+    "Longitude": 73.93,
+    "Latitude": 18.52
+  },
+  {
+    "store_name": "Koregaon Park",
+    "address": "1 Galaxy Gardens, North Main Road",
+    "City": "Pune",
+    "Longitude": 73.89,
+    "Latitude": 18.54
+  },
+  {
+    "store_name": "Kharadi",
+    "address": "Ground Floor, EON Free Zone, Cluster A, MIDC, Kharadi Knowledge Park",
+    "City": "Pune",
+    "Longitude": 73.95,
+    "Latitude": 18.55
+  },
+  {
+    "store_name": "Hadapsar",
+    "address": "Ground Floor, West Block, Amanora Town Centre, Hadapsar",
+    "City": "Pune",
+    "Longitude": 73.94,
+    "Latitude": 18.52
+  },
+  {
+    "store_name": "FC Road",
+    "address": "Mosaic Ground Floor West, Across Fergusson College Gate 2, FC Rd",
+    "City": "Pune",
+    "Longitude": 73.84,
+    "Latitude": 18.52
+  },
+  {
+    "store_name": "Numgambakkam",
+    "address": "Ground Floor, Bergamo Mall, Khadar Nawas Khan Road",
+    "City": "Chennai",
+    "Longitude": 80.25,
+    "Latitude": 13.06
+  },
+  {
+    "store_name": "Royapettah",
+    "address": "Ground Floor, Express Avenue Mall, Whites Road, Royapettah",
+    "City": "Chennai",
+    "Longitude": 80.26,
+    "Latitude": 13.06
+  },
+  {
+    "store_name": "Anna Nagar",
+    "address": "TBR tower, Y block, 2nd Avenue, Near Ayyappa Temple, Anna Nagar",
+    "City": "Chennai",
+    "Longitude": 80.21,
+    "Latitude": 13.09
+  },
+  {
+    "store_name": "Velachery",
+    "address": "Upper Ground Floor, Phoenix marketcity, Velachery Main Road",
+    "City": "Chennai",
+    "Longitude": 80.22,
+    "Latitude": 12.99
+  },
+  {
+    "store_name": "Alwarpet",
+    "address": "Ground Floor, MGN Splendor, Off Chamiers Road, Alwarpet",
+    "City": "Chennai",
+    "Longitude": 80.25,
+    "Latitude": 13.03
+  },
+  {
+    "store_name": "Sector 16",
+    "address": "Ground Floor, Gardens Galleria, Sector 16",
+    "City": "Noida",
+    "Longitude": 77.33,
+    "Latitude": 28.57
+  }
+]
