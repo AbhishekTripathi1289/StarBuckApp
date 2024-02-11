@@ -11,6 +11,7 @@
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:paddingBottom="10dp"
+        android:background="@color/white"
         android:layout_height="wrap_content">
 
         <ImageView
@@ -26,7 +27,7 @@
     <TextView
         android:layout_height="wrap_content"
         android:textSize="20sp"
-        android:layout_width="wrap_content"
+        android:layout_width="0dp"
         android:textColor="@color/black"
         android:id="@+id/textViewStarBuckTitle"
         android:ellipsize="marquee"
@@ -47,6 +48,7 @@
         android:layout_height="wrap_content"
         android:ellipsize="marquee"
         android:maxLines="2"
+        android:textColor="@color/light_gray"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         android:text="Star Buck Address"
@@ -63,6 +65,7 @@
             android:ellipsize="marquee"
             android:layout_marginRight="10dp"
             android:singleLine="true"
+            android:textColor="@color/light_gray"
             android:text="Star Buck City"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.0"
@@ -78,6 +81,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:text="Distance:  "
+            android:textColor="@color/light_gray"
             android:layout_marginLeft="16dp"
             android:layout_marginTop="5dp"
             android:id="@+id/textViewDistance"
@@ -91,6 +95,8 @@
             android:layout_height="wrap_content"
             android:ellipsize="marquee"
             android:singleLine="true"
+            android:textColor="@color/light_gray"
+
             android:text="Block Number 1"
             android:id="@+id/textviewDistanceValue"
             app:layout_constraintStart_toEndOf="@id/textViewDistance"
