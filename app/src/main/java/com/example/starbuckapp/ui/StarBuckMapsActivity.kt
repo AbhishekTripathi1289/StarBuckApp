@@ -38,8 +38,7 @@ class StarBuckMapsActivity : AppCompatActivity(), OnMapReadyCallback {
         actionBar?.setDisplayHomeAsUpEnabled(true)
 
         // Obtain the SupportMapFragment and get notified when the map is ready to be used.
-        val mapFragment = supportFragmentManager
-            .findFragmentById(R.id.map) as SupportMapFragment
+        val mapFragment = supportFragmentManager.findFragmentById(R.id.map) as SupportMapFragment
         mapFragment.getMapAsync(this)
     }
 
@@ -51,7 +50,7 @@ class StarBuckMapsActivity : AppCompatActivity(), OnMapReadyCallback {
         // Add a marker in Sydney and move the camera
         val latlng = LatLng(lat, long)
         mMap.addMarker(MarkerOptions().position(latlng).title("StarBuck"))
-        mMap.moveCamera(CameraUpdateFactory.newLatLng(latlng))
+            mMap.moveCamera(CameraUpdateFactory.newLatLng(latlng))
         mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(latlng, 16f))
     }
 
